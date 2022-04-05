@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently pursuing my 3rd Year B-Tech in Computer Science Engineering at Arving Gavali College of Engineering, Satara  I have an extensive knowledge in different technologies including Data Analysis, Data Science, Machine Learning and Deep Learning.
+I am currently pursuing my 3rd Year B-Tech in Computer Science Engineering at Arvind Gavali College of Engineering, Satara  I have an extensive knowledge in different technologies including Data Analysis, Data Science, Machine Learning and Deep Learning.
 
 In the past, I have worked in MH11Coders as Web Devlopment Intern. I have also worked as a subject matter expert in Intellify.
 
