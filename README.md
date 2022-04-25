@@ -6,13 +6,13 @@ In the past, I have worked in MH11Coders as Web Devlopment Intern. I have also w
 
 ### Things I'm good at 🔥
 
-Domain: Data Analysis, Machine Learning, Deep Learning, Data Science, Natural Language Processing, Data Wrangling, Data Visualization.
+Domain: Web development, Data Analysis, Machine Learning, Data Science, Natural Language Processing, Web Scraping, Data Visualization.
 
 Languages: Python, SQL, HTML, CSS, JavaScript, C.
 
-Framework:  Bootstrap.
+Framework: Flask, Bootstrap.
 
-Libraries & Tools:  NumPy, Pandas, Matplotlib, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK, Microsoft Excel, Tableau.
+Libraries & Tools:  NumPy, Pandas, Matplotlib, Scikit-Learn, Matplotlib, NLTK, Microsoft Excel, Tableau.
 
 ### How to reach me 📱
 Known on internet as rkvarma4518
