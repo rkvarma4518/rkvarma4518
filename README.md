@@ -1,20 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Rahulkumar Varma 👋
 
-I am currently pursuing my 3rd Year B-Tech in Computer Science Engineering at Arvind Gavali College of Engineering, Satara  I have an extensive knowledge in different technologies including Data Analysis, Data Science, Machine Learning and Deep Learning.
+Welcome to my GitHub profile!
 
-In the past, I have worked in MH11Coders as Web Devlopment Intern. I have also worked as a subject matter expert in Intellify.
+- 👨‍💻 I’m passionate about technology, coding, and continuous learning.
+- 🌱 I’m currently learning and building new things.
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/rkvarma4518/)
 
-### Things I'm good at 🔥
+<!--
+**rkvarma4518/rkvarma4518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can add a short bio, your skills, favorite projects, and more!
+-->
 
-Domain: Web development, Data Analysis, Machine Learning, Data Science, Natural Language Processing, Web Scraping, Data Visualization.
+## 📊 GitHub Stats
 
-Languages: Python, SQL, HTML, CSS, JavaScript, C.
+![R.K. Varma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkvarma4518&show_icons=true&theme=radical)
 
-Framework: Flask, Bootstrap.
+## 🔗 Links
 
-Libraries & Tools:  NumPy, Pandas, Matplotlib, Scikit-Learn, Matplotlib, NLTK, Microsoft Excel, Tableau.
-
-### How to reach me 📱
-Known on internet as rkvarma4518
+- [LinkedIn](https://www.linkedin.com/in/rkvarma4518/)
 
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/918329806079)  [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.https://www.linkedin.com/in/rkvarma4518/) 
