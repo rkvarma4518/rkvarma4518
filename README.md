@@ -6,18 +6,6 @@
   <em>Building intelligent data pipelines, scalable cloud infrastructure, and ML-driven solutions</em>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rkvarma4518/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/918329806079">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="/cdn-cgi/l/email-protection#a7d5ccd1c6d5cac69392969fe7c0cac6cecb89c4c8ca">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -106,7 +94,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-+91_83298_06079-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:rkvarma4518@gmail.com">
+  <a href="mailto:varmarahul2200@gmail.com">
     <img src="https://img.shields.io/badge/Email-rkvarma4518@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
