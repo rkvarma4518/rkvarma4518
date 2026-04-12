@@ -126,4 +126,5 @@
 ---
 
 <p align="center">
-  <em>"Data is t
+  <em>"Data is the new oil — I help refine it."</em>
+</p>
