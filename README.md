@@ -15,7 +15,7 @@
 - ☁️ I architect and automate cloud infrastructure with **Azure Bicep**, **Docker**, and **Kubernetes**
 - 📊 I turn raw data into actionable insights using **Python** and **SQL**
 - 🌱 Continuously learning and exploring the latest in cloud-native and ML technologies
-- 📍 Based in **Nashik, Maharashtra, India**
+- 📍 Based in **Pune, Maharashtra, India**
 
 ---
 
