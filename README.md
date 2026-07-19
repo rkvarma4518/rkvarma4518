@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rahulkumar Varma 👋</h1>
 
-<h3 align="center">Data Scientist · Data Engineer · DevOps Engineer</h3>
+<h3 align="center">Data Scientist | Data Engineering Specialist</h3>
 
 <p align="center">
   <em>Building intelligent data pipelines, scalable cloud infrastructure, and ML-driven solutions</em>
@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I work at the intersection of **Data Engineering**, **Data Science**, and **DevOps**
+- 🔭 I work at the intersection of **Data Engineering**, and **DevOps**
 - ⚙️ I build large-scale data pipelines using **PySpark**, **Databricks**, and **Azure**
 - ☁️ I architect and automate cloud infrastructure with **Azure Bicep**, **Docker**, and **Kubernetes**
 - 📊 I turn raw data into actionable insights using **Python** and **SQL**
@@ -26,13 +26,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
-
-### 🤖 Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-0EA5E9?style=flat-square&logoColor=white)
 
 ### 🔁 Big Data & Data Engineering
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -51,8 +44,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Azure Bicep](https://img.shields.io/badge/Azure_Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### 🌐 Web & Other
